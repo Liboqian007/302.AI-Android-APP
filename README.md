@@ -4,7 +4,7 @@
 
 #### 方式一：通过 GitHub 下载
 
-[点击下载](此处填写releases安装包链接)
+[点击下载](https://github.com/Liboqian007/302.AI-Android-APP/tree/main/Ai302/app/release)
 
 #### 方式二：开发者安装
 ```bash
